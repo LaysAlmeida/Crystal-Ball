@@ -14,7 +14,7 @@
           <li> Depois escreva a pergunta desejada; </li>
           <li> Em seguida aperte o botão "Fazer pergunta". </li>
     </ul>
-    <h4> A representação deverá  resultar em algo parecido com a imagem abaixo: </h4>
+    <h4> Deverá  resultar em algo parecido com a imagem abaixo: </h4>
     <img src="https://user-images.githubusercontent.com/104641454/173719827-7d0a3277-86be-4073-91fa-3a302b467307.png" alt="screenshot-result"> 
       <br>
   <h2> ⚙ | Linguagens e Ferramentas:  </h2>
