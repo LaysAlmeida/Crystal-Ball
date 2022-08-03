@@ -1,5 +1,5 @@
 <h1> 🔮  Crystall Ball </h1>
-       <p>  Pequeno e simples projeto utilizando HTML5, CSS3 e JavaScript desenvolvido na maratona Explorer da Rocketseat. </p>
+       <p>  Pequeno e simples projeto utilizando HTML5, CSS3 e JavaScript. </p>
   
   <h2>✍🏻 | Conteúdo: </h2>
      <h3>Página inicial: </h3>     
